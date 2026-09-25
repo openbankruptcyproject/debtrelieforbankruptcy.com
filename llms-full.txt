@@ -2617,7 +2617,7 @@ The 70-Day Fraud Presumption: Section 523(a)(2)(C)
 
 The only meaningful obstacle to discharging payday loans is the fraud presumption in Section 523(a)(2)(C) of the Bankruptcy Code. This provision creates a rebuttable presumption that certain debts incurred shortly before filing were fraudulent.
 
-11 U.S.C. Section 523(a)(2)(C)(i)(II) - Cash advances aggregating more than $1,100 that are extensions of consumer credit under an open-end credit plan obtained by an individual debtor within 70 days before the order for relief are presumed to be nondischargeable.
+11 U.S.C. Section 523(a)(2)(C)(i)(II) - Cash advances aggregating more than $1,250 that are extensions of consumer credit under an open-end credit plan obtained by an individual debtor within 70 days before the order for relief are presumed to be nondischargeable.
 
 What This Means in Practice
 
@@ -2735,7 +2735,7 @@ Yes. Payday loans are unsecured consumer debt, fully dischargeable in both Chapt
 
 What is the 70-day rule for payday loans in bankruptcy?
 
-Under Section 523(a)(2)(C), cash advances over $1,100 within 70 days of filing carry a rebuttable presumption of fraud. Wait at least 70 days after your last payday loan before filing to avoid this issue entirely.
+Under Section 523(a)(2)(C), cash advances over $1,250 within 70 days of filing carry a rebuttable presumption of fraud. Wait at least 70 days after your last payday loan before filing to avoid this issue entirely.
 
 Will payday lenders try to stop my bankruptcy discharge?
 
