@@ -1,29 +1,82 @@
 # Debt Relief or Bankruptcy? - Compare Your Options [2026]
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
-> Should you try debt relief or file bankruptcy? Compare debt management, settlement, consolidation, and Chapter 7 or 13. 2026 decision guide.
+> Should you try debt relief or file bankruptcy? Compare debt management, settlement, consolidation, and Chapter 7 or 13. 2026 decisiÃ³n guide.
 
 ## About
 debtrelieforbankruptcy.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Bankruptcy Alternatives: 7 Options Before You File: https://debtrelieforbankruptcy.com/alternatives.html
-- Chapter 13 as Structured Debt Relief: https://debtrelieforbankruptcy.com/chapter-13.html
+- Bankruptcy Alternatives [2026]: 7 Debt-Relief Options Before Filing Under 11 USC 707 or 1325: https://debtrelieforbankruptcy.com/alternatives.html
+- Chapter 13 as Structured Debt Relief [2026]: 11 USC 1322 Plan vs Settlement and Counseling Alternatives: https://debtrelieforbankruptcy.com/chapter-13.html
 - Chapter 7 Bankruptcy as Debt Relief: https://debtrelieforbankruptcy.com/chapter-7.html
 - Bankruptcy vs Debt Relief - Compare All Options Side by Side: https://debtrelieforbankruptcy.com/compare-options.html
-- Side-by-Side Comparison: All Debt Relief Options: https://debtrelieforbankruptcy.com/comparison-chart.html
-- True Cost of Each Debt Relief Option: https://debtrelieforbankruptcy.com/cost-comparison.html
-- Credit Counseling and Debt Management Plans: https://debtrelieforbankruptcy.com/credit-counseling.html
+- Debt Relief Options Compared [2026]: Bankruptcy vs Settlement vs Counseling vs Consolidation Side by Side: https://debtrelieforbankruptcy.com/comparison-chart.html
+- True Cost of Debt Relief [2026]: Bankruptcy Filing Fees, Settlement Tax Hits, and Consolidation APR Compared: https://debtrelieforbankruptcy.com/cost-comparison.html
+- Credit Counseling and Debt Management Plans [2026]: 11 USC 109(h) Required Course and 501(c)(3) DMPs: https://debtrelieforbankruptcy.com/credit-counseling.html
 - Debt Consolidation: https://debtrelieforbankruptcy.com/debt-consolidation.html
 - How to Get Debt Free Without Bankruptcy - All Options: https://debtrelieforbankruptcy.com/debt-free-without-bankruptcy.html
-- Debt Settlement Pros and Cons - Compared to Bankruptcy: https://debtrelieforbankruptcy.com/debt-settlement-pros-cons.html
-- Debt Settlement: How It Works: https://debtrelieforbankruptcy.com/debt-settlement.html
-- Debt Snowball vs Avalanche Method - Which Payoff Strategy Works: https://debtrelieforbankruptcy.com/debt-snowball-vs-avalanche.html
-- FAQ - Debt Relief vs Bankruptcy: https://debtrelieforbankruptcy.com/faq.html
+- Debt Settlement Pros and Cons [2026]: 1099-C Tax Hit, Lawsuit Risk, and Discharge Comparison vs Chapter 7: https://debtrelieforbankruptcy.com/debt-settlement-pros-cons.html
+- How Debt Settlement Works [2026]: Lump-Sum Negotiation, Escrow Method, and 1099-C Cancellation Income: https://debtrelieforbankruptcy.com/debt-settlement.html
+- Debt Snowball vs Avalanche [2026]: Smallest-Balance vs Highest-APR Payoff Strategies Compared: https://debtrelieforbankruptcy.com/debt-snowball-vs-avalanche.html
+- Debt Relief vs Bankruptcy FAQ [2026]: 1099-C Taxes, Credit Impact, Stay Protection, and Eligibility: https://debtrelieforbankruptcy.com/faq.html
 - How to Write a Financial Hardship Letter - Templates and Guide: https://debtrelieforbankruptcy.com/financial-hardship-letter.html
 - Debt Relief or Bankruptcy? - Compare Your Options: https://debtrelieforbankruptcy.com/
 - Payday Loan Bankruptcy: Can You Discharge Payday Loans?: https://debtrelieforbankruptcy.com/payday-loans.html
 - Privacy Policy: https://debtrelieforbankruptcy.com/privacy.html
+- About debtrelieforbankruptcy.com: https://debtrelieforbankruptcy.com/about.html
+- Debt Relief vs Bankruptcy in Alabama [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/alabama.html
+- Debt Relief vs Bankruptcy in Alaska [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/alaska.html
+- Debt Relief vs Bankruptcy in Arizona [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/arizona.html
+- Debt Relief vs Bankruptcy in Arkansas [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/arkansas.html
+- Debt Relief vs Bankruptcy in California [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/california.html
+- Debt Relief vs Bankruptcy in Colorado [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/colorado.html
+- Debt Relief vs Bankruptcy in Connecticut [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/connecticut.html
+- Debt Relief vs Bankruptcy in Delaware [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/delaware.html
+- Debt Relief vs Bankruptcy in District of Columbia [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/district-of-columbia.html
+- Debt Relief vs Bankruptcy in Florida [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/florida.html
+- Debt Relief vs Bankruptcy in Georgia [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/georgia.html
+- Debt Relief vs Bankruptcy in Hawaii [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/hawaii.html
+- Debt Relief vs Bankruptcy in Idaho [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/idaho.html
+- Debt Relief vs Bankruptcy in Illinois [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/illinois.html
+- Debt Relief vs Bankruptcy by State: https://debtrelieforbankruptcy.com/states/
+- Debt Relief vs Bankruptcy in Indiana [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/indiana.html
+- Debt Relief vs Bankruptcy in Iowa [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/iowa.html
+- Debt Relief vs Bankruptcy in Kansas [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/kansas.html
+- Debt Relief vs Bankruptcy in Kentucky [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/kentucky.html
+- Debt Relief vs Bankruptcy in Louisiana [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/louisiana.html
+- Debt Relief vs Bankruptcy in Maine [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/maine.html
+- Debt Relief vs Bankruptcy in Maryland [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/maryland.html
+- Debt Relief vs Bankruptcy in Massachusetts [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/massachusetts.html
+- Debt Relief vs Bankruptcy in Michigan [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/michigan.html
+- Debt Relief vs Bankruptcy in Minnesota [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/minnesota.html
+- Debt Relief vs Bankruptcy in Mississippi [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/mississippi.html
+- Debt Relief vs Bankruptcy in Missouri [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/missouri.html
+- Debt Relief vs Bankruptcy in Montana [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/montana.html
+- Debt Relief vs Bankruptcy in Nebraska [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/nebraska.html
+- Debt Relief vs Bankruptcy in Nevada [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/nevada.html
+- Debt Relief vs Bankruptcy in New Hampshire [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/new-hampshire.html
+- Debt Relief vs Bankruptcy in New Jersey [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/new-jersey.html
+- Debt Relief vs Bankruptcy in New Mexico [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/new-mexico.html
+- Debt Relief vs Bankruptcy in New York [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/new-york.html
+- Debt Relief vs Bankruptcy in North Carolina [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/north-carolina.html
+- Debt Relief vs Bankruptcy in North Dakota [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/north-dakota.html
+- Debt Relief vs Bankruptcy in Ohio [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/ohio.html
+- Debt Relief vs Bankruptcy in Oklahoma [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/oklahoma.html
+- Debt Relief vs Bankruptcy in Oregon [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/oregon.html
+- Debt Relief vs Bankruptcy in Pennsylvania [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/pennsylvania.html
+- Debt Relief vs Bankruptcy in Rhode Island [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/rhode-island.html
+- Debt Relief vs Bankruptcy in South Carolina [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/south-carolina.html
+- Debt Relief vs Bankruptcy in South Dakota [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/south-dakota.html
+- Debt Relief vs Bankruptcy in Tennessee [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/tennessee.html
+- Debt Relief vs Bankruptcy in Texas [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/texas.html
+- Debt Relief vs Bankruptcy in Utah [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/utah.html
+- Debt Relief vs Bankruptcy in Vermont [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/vermont.html
+- Debt Relief vs Bankruptcy in Virginia [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/virginia.html
+- Debt Relief vs Bankruptcy in Washington [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/washington.html
+- Debt Relief vs Bankruptcy in West Virginia [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/west-virginia.html
+- Debt Relief vs Bankruptcy in Wisconsin [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/wisconsin.html
+- Debt Relief vs Bankruptcy in Wyoming [2026]: DMPs, Settlement, and Chapter 7/13: https://debtrelieforbankruptcy.com/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
